@@ -22,7 +22,7 @@ class _DownloadIndicator extends StatelessWidget {
             child: ShowProgress(progress: progress),
           ),
           const SizedBox(width: 20.0),
-          const Text('Downloading...'),
+          const Text('Pobieranie...'),
         ],
       ),
     );
